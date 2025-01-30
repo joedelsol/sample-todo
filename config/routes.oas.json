@@ -329,7 +329,7 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "Get all todos",
+        "summary": "Get All Todos",
         "description": "Gets all the todos in the todo list.",
         "x-zuplo-route": {
           "corsPolicy": "none",
